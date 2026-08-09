@@ -4,7 +4,7 @@
 
 Welcome to **DotTalk**. Your privacy is important to us. This Privacy Policy explains how DotTalk collects, uses, stores, and protects your information when you use our mobile application.
 
-By using DotTalk, you agree to the practices described in this Privacy Policy.
+* [ ]  By using DotTalk, you agree to the practices described in this Privacy Policy.
 
 ## 1. Information We Collect
 
